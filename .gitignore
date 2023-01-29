@@ -1,5 +1,16 @@
 .vscode
 
+# 확장자 없는 실행파일 무시하기
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+##########################
+
 # Prerequisites
 *.d
 
